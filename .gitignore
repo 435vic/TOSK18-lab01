@@ -1,7 +1,7 @@
 .direnv
 result
 .envrc
-**/
 *.o
 *.out
+*.so
 
