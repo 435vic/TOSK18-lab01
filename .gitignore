@@ -1,5 +1,7 @@
 .direnv
 result
 .envrc
+**/
 *.o
+*.out
 
